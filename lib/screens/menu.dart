@@ -40,7 +40,7 @@ class MyHomePage extends StatelessWidget {
   });
 
   final String nama = "Vincentius Filbert Amadeo";
-  final String npm = "2406275678";
+  final String npm = "2406351711";
   final String kelas = "B";
 
   @override
